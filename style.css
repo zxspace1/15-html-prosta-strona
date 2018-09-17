@@ -83,3 +83,26 @@ nav {
     background-color: blue;
     left: 480px;
 }
+
+/*Sekcja Portfolio*/
+
+.kwadrat1 {
+
+    height: 100px;
+    width: 100px;
+    display: flex;
+    margin: 20px;
+}
+
+#pierwszy1 {
+
+    border: 10px solid red;
+}
+
+#drugi2 {
+    border: 10px solid blue;
+}
+
+#trzeci3 {
+    border: 10px solid yellow;
+}
