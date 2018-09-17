@@ -51,3 +51,35 @@ nav {
     background-color: skyblue;
 
 }
+
+/*Sekcja Skills*/
+
+.kwadrat {
+
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    border-color: white;
+    display: flex;
+    margin: 2px;
+}
+
+#pierwszy {
+    background-color: red;
+    left: 120px;
+}
+
+#drugi {
+    background-color: yellow;
+    left: 240px;
+}
+
+#trzeci {
+    background-color: purple;
+    left: 360px;
+}
+
+#czwarty {
+    background-color: blue;
+    left: 480px;
+}
