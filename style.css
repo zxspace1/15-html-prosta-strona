@@ -1,4 +1,7 @@
 /*menu nawigacyjne*/
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
 
 nav {
     background: none;
@@ -105,4 +108,38 @@ nav {
 
 #trzeci3 {
     border: 10px solid yellow;
+}
+
+/*Sekcja Contact*/
+
+
+input[type=text],
+select,
+textarea {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical;
+}
+
+input[type=submit] {
+    background-color: blue;
+    color: red;
+    padding: 12px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
+
+
+.container {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+    color: blue;
 }
